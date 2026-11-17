@@ -1,5 +1,6 @@
 # 💫 About Me:
-Detail-oriented Frontend Developer with hands-on experience building responsive, performant web applications using React.js, <br>JavaScript (ES6+), TypeScript, and Next.js. Proficient in component-based architecture, REST API integration, state management, <br>and modern CSS frameworks including Tailwind CSS and Bootstrap. Currently pursuing a BSc in Computer Science (GPA 3.3) at <br>Tanta University while actively developing full-stack skills. Completed a 120-hour intensive Full Stack (PHP) training program at <br>NTI. Committed to writing clean, maintainable code and delivering accessible, cross-browser-compatible user interfaces.
+Computer Science undergraduate at Tanta University with hands-on experience developing web applications through technical training and independent projects. Experienced in front-end and back-end development using MERN stack. Familiar with REST API integration, authentication, database design, and modern software development practices. Strong foundation in object-oriented programming, data structures, algorithms, and problem-solving. Interested in contributing to software engineering teams across front-end, back-end, and full-stack development.
+
 
 
 ## 🌐 Socials:
